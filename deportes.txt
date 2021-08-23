@@ -2,3 +2,5 @@ Futbol
 Tenis
 voley
 waterpolo
+Rugby
+Polo
